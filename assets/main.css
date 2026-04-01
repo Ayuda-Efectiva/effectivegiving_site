@@ -533,9 +533,7 @@
 			gap: 0.45rem;
 			width: fit-content;
 			color: var(--link);
-			font-weight: 680;
-			font-size: 0.96rem;
-			transition: color 160ms ease;
+			transition: color 160ms ease, text-decoration-color 160ms ease;
 		}
 
 		.org-link:hover,
